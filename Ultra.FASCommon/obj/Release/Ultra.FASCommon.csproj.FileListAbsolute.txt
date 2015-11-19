@@ -1,0 +1,10 @@
+G:\118Git\OY_WL\Bin\Ultra.FASCommon.dll
+G:\118Git\OY_WL\Bin\Ultra.FASCommon.pdb
+G:\118Git\OY_WL\Ultra.FASCommon\obj\Release\Ultra.FASCommon.csprojResolveAssemblyReference.cache
+G:\118Git\OY_WL\Ultra.FASCommon\obj\Release\Ultra.FASCommon.dll
+G:\118Git\OY_WL\Ultra.FASCommon\obj\Release\Ultra.FASCommon.pdb
+G:\118Git\OYWebSite\Bin\Ultra.FASCommon.dll
+G:\118Git\OYWebSite\Bin\Ultra.FASCommon.pdb
+G:\118Git\OYWebSite\Ultra.FASCommon\obj\Release\Ultra.FASCommon.csprojResolveAssemblyReference.cache
+G:\118Git\OYWebSite\Ultra.FASCommon\obj\Release\Ultra.FASCommon.dll
+G:\118Git\OYWebSite\Ultra.FASCommon\obj\Release\Ultra.FASCommon.pdb

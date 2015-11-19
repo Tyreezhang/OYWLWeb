@@ -1,0 +1,15 @@
+G:\118Git\FAS_KY\Bin\Ultra.FAS.Refers.dll
+G:\118Git\FAS_KY\Bin\Ultra.FAS.Refers.pdb
+G:\118Git\FAS_KY\Ultra.FAS.Refers\obj\Release\Ultra.FAS.Refers.dll
+G:\118Git\FAS_KY\Ultra.FAS.Refers\obj\Release\Ultra.FAS.Refers.pdb
+G:\118Git\FAS_KY\Ultra.FAS.Refers\obj\Release\Ultra.FAS.Refers.csprojResolveAssemblyReference.cache
+G:\118Git\FAS_KY_Web\Bin\Ultra.FAS.Refers.dll
+G:\118Git\FAS_KY_Web\Bin\Ultra.FAS.Refers.pdb
+G:\118Git\FAS_KY_Web\Ultra.FAS.Refers\obj\Release\Ultra.FAS.Refers.dll
+G:\118Git\FAS_KY_Web\Ultra.FAS.Refers\obj\Release\Ultra.FAS.Refers.pdb
+G:\118Git\FAS_KY_Web\Ultra.FAS.Refers\obj\Release\Ultra.FAS.Refers.csprojResolveAssemblyReference.cache
+G:\118Git\OYWebSite\Bin\Ultra.FAS.Refers.dll
+G:\118Git\OYWebSite\Bin\Ultra.FAS.Refers.pdb
+G:\118Git\OYWebSite\Ultra.FAS.Refers\obj\Release\Ultra.FAS.Refers.csprojResolveAssemblyReference.cache
+G:\118Git\OYWebSite\Ultra.FAS.Refers\obj\Release\Ultra.FAS.Refers.dll
+G:\118Git\OYWebSite\Ultra.FAS.Refers\obj\Release\Ultra.FAS.Refers.pdb
